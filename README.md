@@ -1,2 +1,5 @@
-# Challenge-2
-Contains the week 2 challenge
+A quick workup of my portfolio with some images being used as project placeholders.
+
+There are links in the header that navigate the page. 
+
+![portfolio demo](./Assets/PortfolioRM.JPG)
